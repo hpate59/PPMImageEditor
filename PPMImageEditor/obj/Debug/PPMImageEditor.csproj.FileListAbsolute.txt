@@ -1,0 +1,15 @@
+C:\Users\Harshil Patel\Desktop\CS341\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageEditor.exe.config
+C:\Users\Harshil Patel\Desktop\CS341\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageEditor.exe
+C:\Users\Harshil Patel\Desktop\CS341\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageEditor.pdb
+C:\Users\Harshil Patel\Desktop\CS341\PPMImageEditor\PPMImageEditor\bin\Debug\FSharp.Core.dll
+C:\Users\Harshil Patel\Desktop\CS341\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageLibrary.dll
+C:\Users\Harshil Patel\Desktop\CS341\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageLibrary.pdb
+C:\Users\Harshil Patel\Desktop\CS341\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageLibrary.xml
+C:\Users\Harshil Patel\Desktop\CS341\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.csprojResolveAssemblyReference.cache
+C:\Users\Harshil Patel\Desktop\CS341\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.Form1.resources
+C:\Users\Harshil Patel\Desktop\CS341\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.Properties.Resources.resources
+C:\Users\Harshil Patel\Desktop\CS341\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.csproj.GenerateResource.cache
+C:\Users\Harshil Patel\Desktop\CS341\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.csproj.CoreCompileInputs.cache
+C:\Users\Harshil Patel\Desktop\CS341\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.csproj.CopyComplete
+C:\Users\Harshil Patel\Desktop\CS341\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.exe
+C:\Users\Harshil Patel\Desktop\CS341\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.pdb
