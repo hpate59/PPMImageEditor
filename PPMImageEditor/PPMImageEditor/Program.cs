@@ -1,4 +1,5 @@
-﻿using System;
+//Credits: Prof. Hummel, Director of Undergraduate Studies, University of Illinois at Chicago
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
